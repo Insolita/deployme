@@ -6,7 +6,7 @@ if($page === 'info')
     die(0);
 }
 
-echo '<h1>Hello, World!</h1>';
+echo '<h1>Hello, World! Develop Branch</h1>';
 
 echo '<p>ABC = '.getenv('ABC').'</p>';
 echo '<p>CDE = '.getenv('CDE').'</p>';
